@@ -2,6 +2,11 @@
 
 🚀 **SPACDYNA** is a modern, responsive, and animated website for a digital marketing agency. Designed with a sleek and professional UI, it provides businesses with a strong online presence.  
 
+## 🌟 Overview  
+[![SPACDYNA Demo Preview](https://github.com/AhmedHamdy3/Template10-animate.css-/blob/main/demo.gif)](https://youtu.be/jZPVOoBUCzo)
+
+*↑ Click to watch full demo (YouTube)*  
+
 ## 🌟 **Features**  
 
 - **Fully Responsive** – Works seamlessly on all devices (mobile, tablet, desktop).  
